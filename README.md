@@ -26,3 +26,9 @@ In contrast, urban has the lowest average fare per ride and average fare per dri
 ## 3. Summary:
 
 
+Based on the results, I proposed three business recommendations for addressing any disparities among the city types:
+
+1.  Transfer some urban drivers to suburban.  The average fare per ride and driver are much cheaper in urban is likely due to too many drivers and too much competition.
+2.  Increase the average fare per ride in the urban area.
+3.  Transfer some urban drivers to rural area, lowering the competition in the urban area. 
+4.  Decrease the average fare per ride in rural.
