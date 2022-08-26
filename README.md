@@ -8,9 +8,16 @@ The new analysis aims to address differences in ride-sharing data among the diff
 
 ## 2. Results:
 
-Urban has the highest total rides, total drivers, and total fares.  Suburban places second, and rural has the lowest total rides, drivers, and fares. 
+- Urban has the highest total rides, total drivers, and total fares.  
+- Rural has the lowest total rides, total drivers, and total fares. 
 
-In contrast, urban has the lowest average fare per ride and average fare per driver.  Suburban places second, and rural has the highest average fare per ride and driver.  
+- Urban has the lowest average fare per ride and average fare per driver.  
+- Rural has the highest average fare per ride and average fare per driver.  
+
+- Urban has the highest total fares by city type.
+- Rural has the lowest total fares by city type.
+
+- Suburban places in the middle for all parameters. 
 
 
 ### The summary DataFrame 
@@ -18,7 +25,7 @@ In contrast, urban has the lowest average fare per ride and average fare per dri
 ![Screen Shot 2022-08-26 at 10 24 28 AM](https://user-images.githubusercontent.com/108419097/186926096-2732d097-98ef-4815-b749-9546d7830586.png)
 
 
-### The multiple-line chart
+### Total Fare by city type (1/2019 to 4/2019)
 
 ![Total_fares_by_city_type](https://user-images.githubusercontent.com/108419097/186916833-a5918fe6-8b70-4e5e-a22e-75f51db7bb47.png)
 
@@ -26,7 +33,7 @@ In contrast, urban has the lowest average fare per ride and average fare per dri
 ## 3. Summary:
 
 
-Based on the results, I proposed three business recommendations for addressing any disparities among the city types:
+Based on the results, I proposed three business recommendations for addressing the disparities among the city types:
 
 1.  Transfer some urban drivers to suburban.  The average fare per ride and driver are much cheaper in urban is likely due to too many drivers and too much competition.
 2.  Increase the average fare per ride in the urban area.
